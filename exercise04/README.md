@@ -1,13 +1,13 @@
 
 Info:
-    Server: guilherme.postgres.database.azure.com
+    Server: exercise04.postgres.database.azure.com
 
     User: sudo
     Password: @pucminas0
     Regra de Firewall: AllowAll_2024-10-17_19-41-52
     IP Inicial: 0.0.0.0
 
-    Commanto to connect: psql --host=guilherme.postgres.database.azure.com --port=5432 --username=sudo --dbname=postgres
+    Commanto to connect: psql --host=exercise04.postgres.database.azure.com --port=5432 --username=sudo --dbname=postgres
 
 DB Commands:
     /*Creating table*/
